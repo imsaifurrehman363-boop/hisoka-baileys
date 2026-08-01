@@ -47,7 +47,7 @@ export default {
       public: true,
       antiCall: true, // reject call
       database: "database.json", // End .json when using JSON database or use Mongo URI
-      owner: ["6288292024190"], // set owner number on here
+      owner: ["923197822310"], // set owner number on here
       sessionName: "session", // for name session
       prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i,
       pairingNumber: "" // Example Input : 62xxx
@@ -55,9 +55,9 @@ export default {
 
    // Set pack name sticker on here
    Exif: {
-      packId: "https://dikaardnt.my.id",
-      packName: `Sticker Ini Dibuat Oleh :`,
-      packPublish: "Dika Ardnt.",
+      packId: "https://whatsapp.com/channel/0029Vb5xfhL8kyyTzW8QT63d",
+      packName: `OFS-GANGSTER-2018 :`,
+      packPublish: "MR-SAIF X CYBER.",
       packEmail: "okeae2410@gmail.com",
       packWebsite: "https://dikaardnt.my.id",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
